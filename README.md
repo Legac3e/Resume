@@ -1,1 +1,1 @@
-![My resume](./Jake-Duckett-Resume-2022.pdf)
+![My resume](./Jake-Duckett-Resume-2022.png)
